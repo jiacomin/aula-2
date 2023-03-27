@@ -1,6 +1,10 @@
-body {
-    background-color: ; #383d58
-    color: white;
- }
- 
+body{
+    background-color: red;
+}
+header{
+    background-color: black;
+}
+h1{
+    text-align: center;color: red;
+} 
  
