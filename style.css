@@ -5,8 +5,16 @@ body {
 }
 
 header {
-
+   
+  
     background-color: #383D58;
     color: white;
  
+}
+.cabecalho-imagem {
+   
+    width: 20%;
+    background-color: #383D58;
+    color: white;
+    display:flex;
 }
