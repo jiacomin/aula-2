@@ -1,10 +1,6 @@
-.div {
-  text-align: center;
-}
+header{
 
-.section {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+background-color: rgb(49, 176, 226);
+background-color: rgb(65, 233, 32);
+
 }
