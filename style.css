@@ -47,8 +47,14 @@
   
   .estudante-imagem{
     width: 120px;
+
   }
   
+  .estudante-imagem 1{
+    
+    text-aling:picture-in-picture
+
+  }
   .estudante-icone {
     width: 24px;
   }
