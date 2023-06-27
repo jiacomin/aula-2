@@ -28,7 +28,6 @@
   
   .escola-imagem{
      width: 30%;
-     height: 220px;
   }
   
   .escola {
@@ -49,8 +48,4 @@
   .estudante-imagem{
     width: 120px;
 
-  }
-  
-  .estudante-div {
- text-align: center;
   }
