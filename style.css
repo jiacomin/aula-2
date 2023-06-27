@@ -1,0 +1,76 @@
+/* Estilos do cabeçalho */
+header {
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+/* Estilos da descrição */
+.descricao {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+}
+
+.descricao h1 {
+	font-size: 36px;
+	color: #333;
+}
+
+.descricao p {
+	font-size: 18px;
+	line-height: 1.5;
+	color: #666;
+}
+
+/* Estilos dos alunos */
+.alunos {
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+.alunos h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+	color: #333;
+}
+
+.alunos ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.alunos li {
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.alunos img {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+}
+
+.alunos p {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-top: 10px;
+	color: #333;
+}
+
+/* Estilos do rodapé */
+footer {
+	background-color: #f2f2f2;
+	padding: 20px;
+	text-align: center;
+	font-size: 14px;
+	color: #666;
+}
