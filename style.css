@@ -66,18 +66,18 @@ header {
 	color: #333;
 }
 
-.professor {
+.professores {
 	background-color: azure;
 	padding: 20px;
 }
 
-.professor h3 {
+.professores h3 {
 	font-size: 24px;
 	margin-bottom: 10px;
 	color: #333;
 }
 
-.professor ul {
+.professores ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
@@ -87,21 +87,21 @@ header {
 	flex-wrap: wrap;
 }
 
-.professor li {
+.professores li {
 	margin: 10px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
 
-.professor img {
+.professores img {
 	border-radius: 50%;
 	width: 150px;
 	height: 150px;
 	object-fit: cover;
 }
 
-.professor p {
+.professores p {
 	font-size: 18px;
 	line-height: 1.5;
 	margin-top: 10px;
