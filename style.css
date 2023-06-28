@@ -66,48 +66,6 @@ header {
 	color: #333;
 }
 
-.professores {
-	background-color: azure;
-	padding: 20px;
-}
-
-.professores h3 {
-	font-size: 24px;
-	margin-bottom: 10px;
-	color: #333;
-}
-
-.professores ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-wrap: wrap;
-}
-
-.professores li {
-	margin: 10px;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
-
-.professores img {
-	border-radius: 50%;
-	width: 150px;
-	height: 150px;
-	object-fit: cover;
-}
-
-.professores p {
-	font-size: 18px;
-	line-height: 1.5;
-	margin-top: 10px;
-	color: #333;
-}
-
 /* Estilos do rodapé */
 footer {
 	background-color: #f2f2f2;
